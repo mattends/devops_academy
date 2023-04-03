@@ -1,0 +1,1 @@
+mkdir, cd, git, init, git -A, ls, git add .
