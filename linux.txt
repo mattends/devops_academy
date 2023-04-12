@@ -1,1 +1,2 @@
 learnt that linux is an opensource, and linux is very secured and is best for servers.
+i read Linux is used as an embedded OS for a variety of applications, including household appliances, automotive entertainment systems and network file system appliances.
