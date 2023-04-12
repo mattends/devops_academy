@@ -1,1 +1,2 @@
 mkdir, cd, git, init, git -A, ls, git add .
+git commit, git pull origin master, git push
